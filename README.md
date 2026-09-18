@@ -92,8 +92,7 @@ Follow my DevOps journey on LinkedIn:
 
 ## Author
 
-**Abdul Hussein**  
-*Aspiring DevOps Engineer*
+**Abdul Hussein** 
 
 ---
 
